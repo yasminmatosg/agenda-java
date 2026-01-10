@@ -22,10 +22,16 @@ Siga os passos abaixo para rodar o projeto em sua máquina:
 2. Entre no diretório:
    ```bash
     cd agenda-java
-3. Inicie a aplicação. Na versão atual do Java, basta executar o arquivo .java diretamente:
+3. Inicie a aplicação. O projeto possui dois arquivos que se comunicam, compile-os e execute a classe principal:
    ```bash
-   java Agenda.java
+   javac Contato.agenda Agenda.java
+   java agenda
     ````
+## 📂 Estrutura do Código
+`Contato.java`: Define o modelo de dados, contendo atributos como nome, telefone e e-mail, além de seus respectivos Getters e Setters.
+
+`Agenda.java`: Contém a lógica principal do programa, o menu de interação e os métodos de validação e gerenciamento da lista.
+
 ## 𓍝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 

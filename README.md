@@ -1,6 +1,6 @@
 ## ⚙️ Agenda de contatos em Java
 
-Este projeto é um sistema de gerenciamento de contatos desenvolvido em Java. Ele foca na aplicação de conceitos de Programação Orientada a Objetos (POO), manipulação de coleções (´ArrayList`), expressões regulares (Regex) para validação de dados e interação via console.
+Este projeto é um sistema de gerenciamento de contatos desenvolvido em Java. Ele foca na aplicação de conceitos de Programação Orientada a Objetos (POO), manipulação de coleções (`ArrayList`), expressões regulares (Regex) para validação de dados e interação via console.
 
 ## 🔮 Funcionalidades
 * **Gerenciamento Completo** — Adicionar, listar, buscar e excluir contatos.

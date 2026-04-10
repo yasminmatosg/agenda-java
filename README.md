@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9277f3a3-b7eb-4366-a0fd-7bd2ccc79d5f" alt="Banner Agenda de Contatos Java" width="100%">
+</p>
+
 ## ⚙️ Agenda de contatos em Java
 
 Este projeto é um sistema de gerenciamento de contatos desenvolvido em Java. Ele foca na aplicação de conceitos de Programação Orientada a Objetos (POO), manipulação de coleções (`ArrayList`), expressões regulares (Regex) para validação de dados e interação via console.

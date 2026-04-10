@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9277f3a3-b7eb-4366-a0fd-7bd2ccc79d5f" alt="Banner Agenda de Contatos Java" width="100%">
+  <img src="https://github.com/user-attachments/assets/1bb16b57-a6bb-49a6-b5f9-5335b34b5c1e" alt="Banner Agenda de Contatos Java" width="100%">
 </p>
 
 ## ⚙️ Agenda de contatos em Java
